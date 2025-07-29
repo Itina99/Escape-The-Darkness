@@ -5,44 +5,60 @@
 ---
 
 ### 🎮 Overview
-Escape-The-Dungeon is a dark and atmospheric 3D escape room game with:
+Escape-The-Dungeon is a dark and atmospheric 3D escape room game featuring:
+
 - 🧩 **Random map generation**
 - 🧲 **Physics-based puzzles and mini-games**
 - 🕵️‍♀️ **Three playable characters**, each with unique lighting abilities to explore the dungeon in complete darkness
 
-**Your mission:** Escape the dungeon before it traps you forever.
+> **Your mission:** Escape the dungeon before it traps you forever.
 
 ---
 
-### 📸 Screenshots
+### 🖼️ Screenshots
 
-![Main Menu](./images/main-menu.png)
-![Gameplay Screenshot](./images/gameplay-1.png)
-![Lighting Mechanic](./images/character-lighting.png)
+#### 🧱 Basic Elements
+- Flashlight and key interactions  
+  ![Basic Key Flashlight](./images/Basic Key Flashlight.png)
+
+- Balls for puzzle mechanics  
+  ![Balls](./images/Balls.png)
+
+#### 🎮 Minigames & Mechanics
+- Echo minigame puzzle  
+  ![Echo Minigame](./images/Echo Minigame.png)
+
+- Echo water puzzle  
+  ![Echo Water 2](./images/Echo Water 2.png)
+
+- Puzzle without water  
+  ![No Water Balls](./images/No Water Balls.png)
+
+#### 🎬 Ending
+- Final dungeon scene  
+  ![The End](./images/The End.png)
 
 ---
 
 ### 🚀 Try the Game
 
-The game is available for **Mac (Silicon)** and **Windows**.
+Playable on **Mac (Apple Silicon)** and **Windows**.
 
-🔗 [Download & Development Info](https://drive.google.com/drive/folders/1erUmX34KVED94jPAI2y2jboKP1-At1aX)
-
----
-
-### 👨‍💻 Development Highlights
-
-- Unity Engine
-- Custom random level generator
-- Dynamic lighting mechanics
-- First-person puzzle interactions
+📦 [Download & Development Info](https://drive.google.com/drive/folders/1erUmX34KVED94jPAI2y2jboKP1-At1aX)
 
 ---
 
-### 📬 Feedback
+### ⚙️ Development Notes
 
-If you try the game, feel free to open an issue or leave a comment!
+- 🧱 Built with Unity Engine
+- 🗺️ Custom procedural level generation
+- 💡 Dynamic lighting mechanics for immersive experience
+- 🧠 Minigames integrated with environment
 
 ---
 
+### 💬 Feedback
 
+If you try the game, feel free to open an issue or leave a comment — we’d love to hear your thoughts!
+
+---
