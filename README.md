@@ -19,24 +19,24 @@ Escape-The-Dungeon is a dark and atmospheric 3D escape room game featuring:
 
 #### 🧱 Basic Elements
 
-- Flashlight and key interactions  
+- FlashLight Character
   <img src="./Images/basic-key-flashlight.PNG" alt="FlashLight Character" width="400"/>
 
-- Balls for puzzle mechanics  
+- Character with Balls
   <img src="./Images/balls.PNG" alt="Character with Balls" width="400"/>
 
-- Echo minigame puzzle  
+- Echo Character 
   <img src="./Images/echo-minigame.PNG" alt="Echo Character" width="400"/>
 
-- Echo water puzzle  
+- Echo In Water Room
   <img src="./Images/echo-water-2.PNG" alt="Echo In Water Room" width="400"/>
 
-- Puzzle without water  
+- Empty Water Room  
   <img src="./Images/no-water-balls.PNG" alt="Empty Water Room" width="400"/>
 
 #### 🎬 Ending
 
-- Final dungeon scene  
+- The End 
   <img src="./Images/the-end.PNG" alt="The End" width="400"/>
 
 ---
