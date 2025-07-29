@@ -1,4 +1,4 @@
-# 🕯️ Escape-The-Dungeon
+# 🕯️ Escape The Darkness
 
 **3D Escape Room Game** – Developed for the Game Development University Exam
 
