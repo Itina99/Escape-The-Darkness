@@ -19,7 +19,7 @@ Escape-The-Dungeon is a dark and atmospheric 3D escape room game featuring:
 
 #### 🧱 Basic Elements
 
-- FlashLight Character
+- FlashLight Character\\
   <img src="./Images/basic-key-flashlight.PNG" alt="FlashLight Character" width="400"/>
 
 - Character with Balls
