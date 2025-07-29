@@ -52,11 +52,6 @@ Playable on **Mac (Apple Silicon)** and **Windows**.
 ### ⚙️ Development Notes
 
 - 🧱 Built with Unity Engine
-- 🗺️ Custom procedural level generation
-- 💡 Dynamic lighting mechanics for immersive experience
-- 🧠 Minigames integrated with environment
-
----
 
 ### 💬 Feedback
 
